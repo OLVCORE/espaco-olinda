@@ -1,0 +1,27 @@
+{
+  "name": "Espaço Olinda - Eventos no campo",
+  "short_name": "Espaço Olinda",
+  "description": "Espaço de eventos no campo, perto da cidade. Cerimônia coberta, salões versáteis e hospedagem on-site.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1a",
+  "theme_color": "#b48a36",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "lifestyle", "events"],
+  "lang": "pt-BR",
+  "dir": "ltr"
+}

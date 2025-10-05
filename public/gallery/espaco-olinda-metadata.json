@@ -1,0 +1,84 @@
+{
+  "lastUpdated": "2025-10-05T19:56:16.739Z",
+  "source": "fallback_espaco_olinda",
+  "totalImages": 8,
+  "images": [
+    {
+      "id": "fallback-1",
+      "src": "/gallery/espaco-olinda-01.jpg",
+      "alt": "Cerimônia coberta elegante",
+      "title": "Cerimônia coberta elegante",
+      "description": "Estrutura sofisticada que protege contra qualquer imprevisto climático",
+      "category": "Casamentos",
+      "likes": 1247,
+      "comments": 89,
+      "engagement": 1336
+    },
+    {
+      "id": "fallback-2",
+      "src": "/gallery/espaco-olinda-02.jpg",
+      "alt": "Recepção premium ao ar livre",
+      "title": "Recepção premium ao ar livre",
+      "description": "Ambiente sofisticado com vista para a natureza",
+      "category": "Eventos",
+      "likes": 892,
+      "comments": 67,
+      "engagement": 959
+    },
+    {
+      "id": "fallback-3",
+      "src": "/gallery/espaco-olinda-03.jpg",
+      "alt": "Hospedagem exclusiva",
+      "title": "Hospedagem exclusiva",
+      "description": "Suítes elegantes para uma experiência completa",
+      "category": "Hospedagem",
+      "likes": 1567,
+      "comments": 123,
+      "engagement": 1690
+    },
+    {
+      "id": "fallback-5",
+      "src": "/gallery/espaco-olinda-05.jpg",
+      "alt": "Celebrações especiais",
+      "title": "Celebrações especiais",
+      "description": "Espaço versátil para todos os tipos de celebração",
+      "category": "Eventos",
+      "likes": 967,
+      "comments": 78,
+      "engagement": 1045
+    },
+    {
+      "id": "fallback-6",
+      "src": "/gallery/espaco-olinda-06.jpg",
+      "alt": "Bodas de ouro",
+      "title": "Bodas de ouro",
+      "description": "Celebrações familiares em ambiente acolhedor",
+      "category": "Casamentos",
+      "likes": 1456,
+      "comments": 112,
+      "engagement": 1568
+    },
+    {
+      "id": "fallback-7",
+      "src": "/gallery/espaco-olinda-07.jpg",
+      "alt": "Lançamento corporativo",
+      "title": "Lançamento corporativo",
+      "description": "Ambiente inspirador para eventos empresariais",
+      "category": "Corporativo",
+      "likes": 678,
+      "comments": 56,
+      "engagement": 734
+    },
+    {
+      "id": "fallback-8",
+      "src": "/gallery/espaco-olinda-08.jpg",
+      "alt": "Festa de formatura",
+      "title": "Festa de formatura",
+      "description": "Celebrações especiais com vista panorâmica",
+      "category": "Eventos",
+      "likes": 1123,
+      "comments": 89,
+      "engagement": 1212
+    }
+  ]
+}

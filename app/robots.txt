@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://espacoolinda.com.br/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow admin and private areas
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /private/
+
+# Allow important pages
+Allow: /casamentos
+Allow: /corporativo
+Allow: /hospedagem
+Allow: /sobre
+Allow: /contato
+Allow: /blog
+Allow: /cases

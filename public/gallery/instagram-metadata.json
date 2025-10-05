@@ -1,0 +1,126 @@
+{
+  "lastUpdated": "2025-10-05T21:14:59.730Z",
+  "totalImages": 12,
+  "images": [
+    {
+      "id": "ig_001",
+      "src": "/gallery/instagram-01.jpg",
+      "alt": "Cerimônia coberta elegante com vista para a natureza",
+      "title": "Cerimônia coberta elegante com vista para a natureza",
+      "description": "Cerimônia coberta elegante com vista para a natureza",
+      "category": "Casamentos",
+      "likes": 1247,
+      "views": 8932
+    },
+    {
+      "id": "ig_002",
+      "src": "/gallery/instagram-02.jpg",
+      "alt": "Recepção premium ao ar livre com decoração sofisticada",
+      "title": "Recepção premium ao ar livre com decoração sofisticada",
+      "description": "Recepção premium ao ar livre com decoração sofisticada",
+      "category": "Eventos",
+      "likes": 892,
+      "views": 5643
+    },
+    {
+      "id": "ig_003",
+      "src": "/gallery/instagram-03.jpg",
+      "alt": "Hospedagem exclusiva com suítes elegantes",
+      "title": "Hospedagem exclusiva com suítes elegantes",
+      "description": "Hospedagem exclusiva com suítes elegantes",
+      "category": "Hospedagem",
+      "likes": 1567,
+      "views": 7891
+    },
+    {
+      "id": "ig_004",
+      "src": "/gallery/instagram-04.jpg",
+      "alt": "Evento corporativo com estrutura técnica completa",
+      "title": "Evento corporativo com estrutura técnica completa",
+      "description": "Evento corporativo com estrutura técnica completa",
+      "category": "Corporativo",
+      "likes": 743,
+      "views": 4231
+    },
+    {
+      "id": "ig_005",
+      "src": "/gallery/instagram-05.jpg",
+      "alt": "Decoração sofisticada para casamentos inesquecíveis",
+      "title": "Decoração sofisticada para casamentos inesquecíveis",
+      "description": "Decoração sofisticada para casamentos inesquecíveis",
+      "category": "Casamentos",
+      "likes": 2134,
+      "views": 12456
+    },
+    {
+      "id": "ig_006",
+      "src": "/gallery/instagram-06.jpg",
+      "alt": "Celebrações especiais em ambiente único",
+      "title": "Celebrações especiais em ambiente único",
+      "description": "Celebrações especiais em ambiente único",
+      "category": "Eventos",
+      "likes": 967,
+      "views": 6789
+    },
+    {
+      "id": "ig_007",
+      "src": "/gallery/instagram-07.jpg",
+      "alt": "Bodas de ouro com toda a família reunida",
+      "title": "Bodas de ouro com toda a família reunida",
+      "description": "Bodas de ouro com toda a família reunida",
+      "category": "Casamentos",
+      "likes": 1456,
+      "views": 8234
+    },
+    {
+      "id": "ig_008",
+      "src": "/gallery/instagram-08.jpg",
+      "alt": "Lançamento de produto em ambiente inspirador",
+      "title": "Lançamento de produto em ambiente inspirador",
+      "description": "Lançamento de produto em ambiente inspirador",
+      "category": "Corporativo",
+      "likes": 678,
+      "views": 3456
+    },
+    {
+      "id": "ig_009",
+      "src": "/gallery/instagram-09.jpg",
+      "alt": "Festa de formatura com vista panorâmica",
+      "title": "Festa de formatura com vista panorâmica",
+      "description": "Festa de formatura com vista panorâmica",
+      "category": "Eventos",
+      "likes": 1123,
+      "views": 7890
+    },
+    {
+      "id": "ig_010",
+      "src": "/gallery/instagram-10.jpg",
+      "alt": "Confraternização empresarial premium",
+      "title": "Confraternização empresarial premium",
+      "description": "Confraternização empresarial premium",
+      "category": "Corporativo",
+      "likes": 834,
+      "views": 4567
+    },
+    {
+      "id": "ig_011",
+      "src": "/gallery/instagram-11.jpg",
+      "alt": "Cerimônia íntima com decoração minimalista",
+      "title": "Cerimônia íntima com decoração minimalista",
+      "description": "Cerimônia íntima com decoração minimalista",
+      "category": "Casamentos",
+      "likes": 1789,
+      "views": 9876
+    },
+    {
+      "id": "ig_012",
+      "src": "/gallery/instagram-12.jpg",
+      "alt": "Evento de gala com iluminação especial",
+      "title": "Evento de gala com iluminação especial",
+      "description": "Evento de gala com iluminação especial",
+      "category": "Eventos",
+      "likes": 1456,
+      "views": 8123
+    }
+  ]
+}
